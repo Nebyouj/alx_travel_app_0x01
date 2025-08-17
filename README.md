@@ -15,4 +15,5 @@ python manage.py seed
   1. Initiate Payment (`/listings/initiate-payment/`)
   2. Redirect user to Chapa checkout URL.
   3. Verify Payment (`/listings/verify-payment/`)
-- Tested using Chapa Sandbox API.
+- Tested using Chapa Sandbox API...
+
